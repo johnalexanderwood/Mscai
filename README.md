@@ -3,7 +3,8 @@
 Please see the Wiki, all will be explained. 
 
 ## Link to the Introduction
-* [Mscai] (https://github.com/johnalexanderwood/Mscai/wiki/Welcome-to-Mscai:-This-is-the-Plan)
+Please click on this link to see an introduction to this project:
+[Mscai](https://github.com/johnalexanderwood/Mscai/wiki/Welcome-to-Mscai:-This-is-the-Plan)
 
 ## Details of the Topics Covered
 
